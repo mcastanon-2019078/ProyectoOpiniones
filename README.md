@@ -1,2 +1,0 @@
-# ProyectoOpiniones
-Gestión De Opiniones 
